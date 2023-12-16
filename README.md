@@ -1,4 +1,4 @@
-# Number-Guseeing-Game
+# Number-Gusseing-Game
 
 This project is a Java Console Application for Number Guseeing Game
 
