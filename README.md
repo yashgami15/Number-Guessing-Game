@@ -1,10 +1,10 @@
-# Number-Gusseing-Game
+# Number-Guessing-Game
 
-This project is a Java Console Application for Number Guseeing Game
+This project is a Java Console Application for Number Guessing Game
 
 ## Introduction
 
-A number guessing game is a simple guessing game where a user is supposed to guess a number between 0 and 9. If the user guesses the exact Number then the user win the game otherwise user loses the game
+A number guessing game is a simple guessing game where a user is supposed to guess a number between 0 and 9. If the user guesses the exact Number then the user wins the game otherwise user loses the game
 
 ## Functionalities
 
